@@ -1,6 +1,6 @@
 let interval;
 let currentIndex = 0;
-let signals=[];
+let signals = [];
 
 const resetSignals = () =>{
     document.querySelectorAll('.signal').forEach(signal =>{
